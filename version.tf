@@ -11,6 +11,6 @@ terraform {
 
 provider "aws" {
   region = "us-east-1"
-  profile = "tf-state-handler" 
+  profile = "master-program-user" 
   # Change this to your desired region
 }
